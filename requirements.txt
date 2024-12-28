@@ -1,0 +1,24 @@
+accelerate
+appdirs
+loralib
+bitsandbytes
+black
+black[jupyter]
+datasets
+fire
+peft
+transformers>=4.28.0
+sentencepiece
+gradio
+torch>=2
+torchaudio>=2
+faster-whisper
+ffmpeg-python>=0.2
+pandas
+setuptools>=65
+nltk
+python-dotenv
+whisperx @ git+https://github.com/m-bain/whisperX.git@66da4b3eb715bad14d0271e25ce9b373d3541114
+openai
+google-generativeai
+google-cloud-texttospeech
