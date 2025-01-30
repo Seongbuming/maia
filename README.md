@@ -62,6 +62,8 @@ python app.py
 
 ## Architecture
 
+![system_architecture](https://github.com/user-attachments/assets/0f4fdf3f-82f6-4efb-b132-ea9ac8744efa)
+
 MAIA consists of four main components:
 1. **Context Extraction**: Pretrained transformer attention mechanism
 2. **Memory Module**: DPR-based retrieval with STM/LTM
