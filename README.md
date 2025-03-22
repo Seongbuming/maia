@@ -2,7 +2,7 @@
 
 MAIA (Memory-Augmented Intelligent Assistant) implements prompt chaining with enhanced long-term recall capabilities for LLM-powered intelligent assistants.
 
-This work has been accepted to [IUI 2025](https://iui.acm.org/2025/) (ACM Conference on Intelligent User Interfaces). For citation information, please see the [Citation](#citation) section below.
+This work has been accepted to IUI 2025 (ACM Conference on Intelligent User Interfaces). [📄 Read the paper](https://doi.org/10.1145/3708359.3712117). Citation details are available in the [Citation](#citation) section.
 
 ## Requirements
 
