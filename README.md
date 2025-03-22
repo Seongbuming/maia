@@ -2,6 +2,8 @@
 
 MAIA (Memory-Augmented Intelligent Assistant) implements prompt chaining with enhanced long-term recall capabilities for LLM-powered intelligent assistants.
 
+This work has been accepted to [IUI 2025](https://iui.acm.org/2025/) (ACM Conference on Intelligent User Interfaces). For citation information, please see the [Citation](#citation) section below.
+
 ## Requirements
 
 - Python 3.9
@@ -69,6 +71,28 @@ MAIA consists of four main components:
 2. **Memory Module**: DPR-based retrieval with STM/LTM
 3. **Prompt Generation**: Dynamic multi-step reasoning chain
 4. **Response Generation**: Template-based response synthesis
+
+## Citation
+
+```bibtex
+@inproceedings{seo2025prompt,
+  author = {Seo, Seongbum and Yoo, Sangbong and Jang, Yun},
+  title = {A Prompt Chaining Framework for Long-Term Recall in LLM-Powered Intelligent Assistant},
+  year = {2025},
+  month = mar,
+  isbn = {9798400713064},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3708359.3712117},
+  doi = {10.1145/3708359.3712117},
+  booktitle = {Proceedings of the 30th International Conference on Intelligent User Interfaces},
+  pages = {89–105},
+  numpages = {17},
+  keywords = {Intelligent Assistants, Large Language Models, Prompt Chaining},
+  location = {Cagliari, Italy},
+  series = {IUI '25}
+}
+```
 
 ## License
 
